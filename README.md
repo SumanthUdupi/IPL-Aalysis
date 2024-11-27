@@ -45,12 +45,12 @@ This project dives into the rich history of the **Indian Premier League (IPL)**,
 ---
 
 ## 📊 Dataset Overview  
-The dataset contains match records from the IPL's inception in 2008 to 2020, including:  
+The dataset contains match records from the IPL's inception in 2008 to 2022, including:  
 - Match outcomes and details (winner, venue, toss decision).  
 - Player performance (runs, wickets, strike rates, economy rates).  
 - Team statistics across all seasons.  
 
-Dataset Source: [Kaggle: IPL Complete Dataset (2008-2022)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020/data)
+Dataset Source: [Kaggle: IPL Complete Dataset (2008-2022)](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082022/data)
 
 ---
 
